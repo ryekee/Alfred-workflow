@@ -2,7 +2,7 @@
 写的一些自用 Alfred workflows
 
 ## Hotkey Music Love v0.5
-<div align=center><img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png"/></div>
+<img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png"/>
 
 [下载][1]
 
