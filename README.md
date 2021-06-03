@@ -2,7 +2,7 @@
 写的一些自用 Alfred workflows
 
 ## Hotkey Music Love v0.5
-![Hotkey-Music-Love-logo]
+<div align=center><img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png"/></div>
 
 [下载][1]
 
@@ -20,5 +20,4 @@
 ## License
 CC0 - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
 
-[Hotkey-Music-Love-logo]: https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png
 [1]: https://github.com/ryekee/Alfred-workflow/blob/main/Hotkey%20Music%20Love.alfredworkflow?raw=true
