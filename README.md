@@ -1,5 +1,5 @@
-# Alfred-workflow
-写的一些Alfred workflow
+# Alfred workflow
+写的一些自用 Alfred workflows
 
 ## Hotkey Music Love
 支持功能：
