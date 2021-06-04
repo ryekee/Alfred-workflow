@@ -1,7 +1,8 @@
 # Alfred workflow
 写的一些自用 Alfred workflows
 
-## Hotkey Music Love v0.6 - 20210604
+## Hotkey Music Control v0.6 - 20210604
+
 <img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png"/>
 
 [下载链接][1]
