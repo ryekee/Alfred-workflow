@@ -3,7 +3,7 @@
 
 ## Hotkey Music Control v0.8 - 20210617
 
-<img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/img/music.png"/>
+<img width="150" height="150" src="https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/HotkeyMusicControl/img/music.png"/>
 
 [下载链接][1]
 
@@ -25,5 +25,5 @@
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. [See More Information][2].
 
-[1]: https://github.com/ryekee/Alfred-workflow/blob/main/Hotkey%20Music%20Control.alfredworkflow?raw=true
+[1]: https://github.com/ryekee/Alfred-workflow/blob/main/HotkeyMusicControl/Hotkey%20Music%20Control.alfredworkflow?raw=true
 [2]: https://raw.githubusercontent.com/ryekee/Alfred-workflow/main/LICENSE
